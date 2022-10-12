@@ -29,7 +29,7 @@ def home():
 
 
 @app.post("/predict", response_model=BaseModel)
-def predict(payload: TextIn):
+async def predict(payload: TextIn):
     lang = predict_pipeline(payload)
     response = {
         "language": lang
