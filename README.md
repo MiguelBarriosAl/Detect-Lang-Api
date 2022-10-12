@@ -10,8 +10,7 @@
 
 # Introduction
 
-For this project I wanted to integrate the [Flask](https://flask.palletsprojects.com/en/2.2.x/) framework with Sqlite to develop Api Rest in which you could store the data and make searches.
-On the other hand, I have considered Sqlite for testing since it is a less powerful database engine than others such as mysql or PostgreSql, it is sufficient for testing.
+For this project I wanted to integrate FatApi framework with model: Predict Language with Docker and Heroku.
 
 # Requirements
     scikit-learn==1.0.2
