@@ -4,8 +4,8 @@
 
 - [Introduction](#Introduction)
 - [Requirements](#Requirements)
-- [Create Git repo](#Create Git repo)
-- [Create Heroku project](#Create Heroku project)
+- [Create Git repo](#create-git-repo)
+- [Create Heroku project](#create-heroku-project)
 - [Services](#Services)
 
 # Introduction
