@@ -3,9 +3,9 @@
 # Table of Contents
 
 - [Introduction](#Introduction)
-- [Requirements](#)
-- [Create Git repo](#)
-- [Create Heroku project](#)
+- [Requirements](#Requirements)
+- [Create Git repo](#Create Git repo)
+- [Create Heroku project](#Create Heroku project)
 - [Services](#Services)
 
 # Introduction
